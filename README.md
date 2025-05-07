@@ -1,5 +1,3 @@
-<img src="https://github.com/Manahil-Uqab/Manahil-Uqab/blob/main/banner.png" alt="Banner" width="100%" />
-
 # 🤖 hi. i'm manahil. probably.
 🧠 BD @ a software firm.  
 💸 help companies get free money (legally).  
