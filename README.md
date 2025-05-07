@@ -28,10 +28,9 @@
 
 ## current status: "working on it"
 👀 cooking up:
-- a grant eligibility tool (because why is this still manual??)  
-- CRM demo flows that don’t suck  
-- pitch decks that don’t cause sleep
-
+- Client Onboarding Without the Headache (Because who wants to fill out forms forever?)
+- Partnerships that Actually Go Somewhere (Not just another handshake deal)
+- Proposals So Good, They Almost Write Themselves (But hey, we still do the heavy lifting)
 🗂️ nothing’s public yet, but that’s ✨intentional ambiguity✨
 
 ---
