@@ -2,7 +2,7 @@
 - 👀 I’m interested in medical billing credentialing,reffering, and authorisation.
 - 🌱 I’m currently learning Medical Billing Coding.
 - 💞️ I’m looking to collaborate on Medical Billing terms.
-- 📫 How to reach me +92 322 0400969 or manahiluqab@gmail.com.
+- 📫 How to reach me manahiluqab@gmail.com.
 
 <!---
 Manahil-Uqab/Manahil-Uqab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
