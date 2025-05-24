@@ -1,21 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Manahil Uqab</title>
-  <style>
-    .banner {
-      width: 100%;
-      height: auto;
-    }
-  </style>
-</head>
-<body>
 
-  <h1>Welcome to Manahil Uqab's Site</h1>
-  <img class="banner" src="banner.jpg" alt="Banner Image">
-
-</body>
-</html>
 
 # 🤖 hi. i'm manahil. probably.
 🧠 BD @ a software firm.  
