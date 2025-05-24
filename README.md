@@ -1,13 +1,12 @@
 <img src="banner.png" style="width:100%; display:block;" alt="Banner">
 
 # 🤖 hi. i'm manahil. probably.
-
-👜 CEO & founder @ a leather brand.
-🧠 COO @ a tech company.
-💸 help businesses make (or save) money—legally and creatively.
-📉 made sales decks that *actually* sell.
-🧾 might've reverse-engineered funding systems *and* supply chains.
-👁️ open to collabs unless you use Comic Sans.
+*👜 CEO & founder @ a leather brand.
+*🧠 COO @ a tech company.
+*💸 help businesses make (or save) money—legally and creatively.
+*📉 made sales decks that *actually* sell.
+*🧾 might've reverse-engineered funding systems *and* supply chains.
+*👁️ open to collabs unless you use Comic Sans.
 
 ---
 
