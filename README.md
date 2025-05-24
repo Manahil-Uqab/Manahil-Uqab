@@ -1,4 +1,4 @@
-
+<img src="banner.png" style="width:100%; display:block;" alt="Banner">
 
 # 🤖 hi. i'm manahil. probably.
 🧠 BD @ a software firm.  
