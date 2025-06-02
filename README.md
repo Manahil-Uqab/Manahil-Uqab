@@ -32,6 +32,7 @@
 * A leather brand that doesn’t scream mass-manufactured monotony
 * BPO + tech systems that grow with zero micromanagement
 * Proposals and sales engines that practically close themselves
+  
 🗂️ nothing’s fully public yet, and that’s ✨strategic ambiguity✨
 
 ---
