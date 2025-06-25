@@ -1,9 +1,9 @@
 <img src="banner.png" style="width:100%; display:block;" alt="Banner">
 
 ---
-# 🤖 hi. i'm manahil. probably.
-* 👜 CEO & founder @ **Mfama **
-* 🧠 CEO & founder @ **Mfama **
+# 🤖 hi. i'm manahil uqab. probably.
+* 👜 CEO & founder @ **Mfama Leathers**
+* 🧠 CEO & founder @ **Mfama Group**
 * 💸 build businesses that *print money*—creatively, ethically, operationally
 * 🧾 might've reverse-engineered supply chains *and* scaled teams from zero
 * 👁️ open to chat (unless you use Comic Sans—then absolutely not)
