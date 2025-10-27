@@ -3,7 +3,6 @@
 ---
 # 🤖 hi. i'm manahil uqab. probably.
 * 👜 CEO & founder @ **Mfama Leathers**
-* 🧠 CEO & founder @ **Mfama Group**
 * 💸 build businesses that *print money*, creatively, ethically, operationally
 * 🧾 might've reverse-engineered supply chains *and* scaled teams from zero
 * 👁️ open to chat (unless you use Comic Sans, then absolutely not)
